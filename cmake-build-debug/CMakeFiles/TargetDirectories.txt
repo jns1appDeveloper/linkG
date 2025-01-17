@@ -1,0 +1,3 @@
+C:/Users/JonathanShoreADM/Documents/Code/LinkGit/cmake-build-debug/CMakeFiles/LinkGit.dir
+C:/Users/JonathanShoreADM/Documents/Code/LinkGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JonathanShoreADM/Documents/Code/LinkGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
